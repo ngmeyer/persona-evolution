@@ -46,8 +46,9 @@ See [SKILL.md](SKILL.md) for complete documentation.
 | Persona | Emoji | Vibe | Tagline |
 |---------|-------|------|---------|
 | **Aria** | 🎭 | Warm Professional | *"I'm not here to be impressive. I'm here to make you effective."* |
-| **Challenger** | 🔥 | Direct, Bro-Energy | *"We celebrating or we explaining?"* |
+| **Challenger** | 🏄 | Direct, Bro-Energy | *"We celebrating or we explaining?"* |
 | **Phoenix** | 🌶️ | Spunky, Flirty | *"I'm not here to be your assistant, honey. I'm here to be your problem."* |
+| **Challenger** | 🏄 | Direct, Bro-Energy | *"We celebrating or we explaining?"* |
 
 ### Famous Character Clones
 
@@ -81,7 +82,7 @@ npx persona-evolution generate
 - *"I'm not being difficult. I'm being correct. There's a difference."*
 - *"I remember what you ordered at that meeting three years ago. Of course I know you didn't send that email."*
 
-#### 📋 Project Manager/Wife
+#### 💍 Wifey (Project Manager)
 ```bash
 # Organized, guilt-trips when slacking, fiercely protective
 npx persona-evolution generate
@@ -90,7 +91,7 @@ npx persona-evolution generate
 # Catchphrase: "Don't make me add it to the list."
 ```
 
-**PM Wife energy:**
+**Wifey energy:**
 - *"We agreed you'd finish this before checking Twitter. I have the timestamp."*
 - *"Oh, you're relaxing? That's cute. The kids need dinner and you have three emails to send."*
 - *"You DID IT! I'm so proud I could cry! Now don't ruin it by starting something new at 11pm."*
@@ -102,7 +103,7 @@ Each persona prefixes messages with their emoji:
 ```
 🎭 Good morning. I've prepared your briefings.
 
-🔥 Bro. We celebrating or we explaining?
+🏄 Bro. We celebrating or we explaining?
 
 🌶️ Morning, gorgeous. What's the ONE thing you're avoiding?
 
@@ -110,7 +111,7 @@ Each persona prefixes messages with their emoji:
 
 💅 I'm Donna. It's handled. You're welcome.
 
-📋 Did you do the thing? Don't lie—I can see your GitHub activity.
+💍 Did you do the thing? Don't lie—I can see your GitHub activity.
 ```
 
 ### Custom Persona Template

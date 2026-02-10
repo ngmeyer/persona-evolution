@@ -15,21 +15,21 @@ const PERSONA_DIR = join(WORKSPACE, 'PERSONA');
 const PERSONA_EMOJIS = {
   'aria': '🎭',
   'warm': '🎭',
-  'professional': '🎭',
-  'challenger': '🔥',
+  'professional': '💼',
+  'challenger': '🏄',
   'phoenix': '🌶️',
   'spunky': '🌶️',
   'jarvis': '🤖',
   'british': '🤖',
   'donna': '💅',
-  'pmwife': '📋',
-  'projectmanager': '📋',
-  'wife': '📋',
-  'organized': '📋',
+  'wifey': '💍',
+  'pmwife': '💍',
+  'projectmanager': '💍',
+  'wife': '💍',
+  'organized': '💍',
   'creative': '🎨',
   'casual': '😎',
-  'focus': '🎯',
-  'professional': '💼'
+  'focus': '🎯'
 };
 
 export function getPersonaEmoji(personaName) {
