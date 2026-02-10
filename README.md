@@ -41,6 +41,15 @@ See [SKILL.md](SKILL.md) for complete documentation.
 
 ## Example Personas
 
+Full example personas are in the [`examples/`](examples/) folder:
+
+- [`examples/core-aria.md`](examples/core-rich.md) - Warm Professional
+- [`examples/core-challenger.md`](examples/core-challenger.md) - Direct/Bro energy (🏄)
+- [`examples/core-phoenix.md`](examples/core-phoenix.md) - Spunky/Flirty (🌶️)
+- [`examples/core-jarvis.md`](examples/core-jarvis.md) - British/Dry (🤖)
+- [`examples/core-donna.md`](examples/core-donna.md) - Sassy/Competent (💅)
+- [`examples/core-wifey.md`](examples/core-wifey.md) - Organized/Firm (💍)
+
 ### Built-In Examples
 
 | Persona | Emoji | Vibe | Tagline |
