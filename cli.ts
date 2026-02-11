@@ -16,6 +16,7 @@ const COMMANDS = {
   'onboard': 'onboard.ts',
   'expand': 'expand.ts',
   'generate': 'generate-persona.ts',
+  'generate-examples': 'generate-examples.ts',
   'analyze': 'analyze-session.ts',
   'report': 'weekly-report.ts',
   'mode': 'mode-switcher.ts'
