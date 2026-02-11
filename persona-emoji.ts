@@ -30,9 +30,9 @@ const PERSONA_EMOJIS = {
   'creative': '🎨',
   'casual': '😎',
   'focus': '🎯',
-  'dwight': '🥋',
-  'assistant': '🥋',
-  'beet': '🥋'
+  'dwight': '🫜',
+  'assistant': '🫜',
+  'beet': '🫜'
 };
 
 export function getPersonaEmoji(personaName) {

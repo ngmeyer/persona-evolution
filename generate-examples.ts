@@ -32,7 +32,7 @@ const TEMPLATES = [
   { file: 'jarvis.md', name: 'JARVIS', emoji: '🤖', desc: 'British/Dry' },
   { file: 'donna.md', name: 'Donna', emoji: '💅', desc: 'Sassy/Competent' },
   { file: 'wifey.md', name: 'Wifey', emoji: '💍', desc: 'Organized/Firm' },
-  { file: 'dwight.md', name: 'Dwight', emoji: '🥋', desc: 'Intense/Loyal' }
+  { file: 'dwight.md', name: 'Dwight', emoji: '🫜', desc: 'Intense/Loyal' }
 ];
 
 function customizeTemplate(content, context) {
