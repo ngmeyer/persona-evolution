@@ -22,6 +22,7 @@ npx persona-evolution generate --template jarvis
 | `jarvis` | British, dry wit, hyper-competent | Elegant assistance |
 | `donna` | Sassy, remembers everything, runs it all | Full life management |
 | `wifey` | Organized, guilt-trips with love, celebrates wins | Accountability + care |
+| `dwight` | Intense, loyal, beet/aggression focused | Fear-based productivity |
 
 ## Customizing Templates
 
